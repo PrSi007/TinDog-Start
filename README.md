@@ -1,1 +1,2 @@
-TinDog Starting Files
+# TinDog
+A static website built using pure bootstrap 
